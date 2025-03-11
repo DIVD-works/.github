@@ -1,0 +1,53 @@
+---
+name: "Job Application"
+description: "Track job applications, internships, and hiring process."
+labels: ["Hiring", "Recruitment"]
+---
+
+## Job Application Details
+
+**Position Applied For:**
+- [ ] Internship
+- [ ] Full-time
+- [ ] Part-time
+- [ ] Contract
+
+**Job Title:** <!-- Enter the job title here -->
+
+**Candidate Name:** <!-- Enter the candidate's name -->
+
+**Email Address:** <!-- Enter the email address -->
+
+**LinkedIn Profile (if available):** <!-- Enter LinkedIn URL -->
+
+**Resume/CV:**
+- [ ] Attached
+- [ ] Link: <!-- Provide link if applicable -->
+
+## Application Status
+
+- [ ] 🟢 Open Position – Job opening is active.
+- [ ] 📩 Applications Received – Reviewing candidates.
+- [ ] 🎤 Interview Scheduled – Candidate interview in progress.
+- [ ] ✅ Offer Extended – Waiting for candidate's response.
+- [ ] 🤝 Hired – Candidate accepted the offer.
+- [ ] ❌ Position Closed – Role filled or canceled.
+
+## Interview Details (if applicable)
+
+**Interview Date & Time:** <!-- Specify date/time -->
+
+**Interviewers:** <!-- List interviewer names -->
+
+**Interview Notes:** <!-- Provide any notes -->
+
+## Onboarding (if Hired)
+
+- [ ] 📋 Pre-Employment Docs Pending
+- [ ] 🚀 Onboarding in Progress
+- [ ] 🎓 Training in Progress
+- [ ] ✅ Onboarding Completed
+
+## Additional Notes
+
+<!-- Add any other relevant information here -->
